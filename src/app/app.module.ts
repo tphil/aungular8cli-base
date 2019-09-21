@@ -32,4 +32,4 @@ import { AlertComponent } from './_components';
     ],
     bootstrap: [AppComponent]
 })
-export class AppModule { };
+export class AppModule { }
